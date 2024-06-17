@@ -1,0 +1,9 @@
+{
+    "Home": {
+        "welcome": "ยินดีต้อนรับ"
+    },
+    "About": {
+        "profile": "โปรไฟล์",
+        "change_language": "เปลี่ยนภาษา"
+    }
+}
